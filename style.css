@@ -42,3 +42,11 @@ body{
 .timg{
     margin-top: -50px;
 }
+.sear{
+    background-color: gray; 
+    color: aliceblue;
+    padding: 10px 5px 10px 5px;
+}
+footer .row{
+    margin-left: 9rem;
+}
