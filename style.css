@@ -50,3 +50,7 @@ body{
 footer .row{
     margin-left: 9rem;
 }
+.navbar-toggler-icon{
+    background-color: #0872BF;
+}
+.navbar-togglle{background-color: #0872BF;}
